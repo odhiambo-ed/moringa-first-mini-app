@@ -1,0 +1,6 @@
+<view>
+  <view class="section">
+    I am a Software Engineer
+  </view>
+  <button size="default" type="primary" onTap="goToHome">Go To Home</button>
+</view>

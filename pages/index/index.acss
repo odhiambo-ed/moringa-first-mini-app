@@ -1,0 +1,13 @@
+page {
+  background-color: rgb(214, 248, 222);
+}
+
+.section {
+  text-align: center;
+  padding-top: 2px;
+}
+
+button {
+  width: 50%;
+  margin: 10px auto;
+}

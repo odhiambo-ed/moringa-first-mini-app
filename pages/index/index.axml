@@ -1,0 +1,7 @@
+<view class="page">
+  <view class="section">
+    Hello, this is Edward's first app
+  </view>
+  <button size="default" type="primary" onTap="goToContact">See My Contact</button>
+  <button size="default" type="primary" onTap="goToAbout">See About Me</button>
+</view>

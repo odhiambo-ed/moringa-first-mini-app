@@ -1,0 +1,12 @@
+{
+  "subPackageBuildType": "shared",
+  "pages": [
+    "pages/index/index",
+    "pages/contact/contact",
+    "pages/about/about"
+  ],
+  "window": {
+    "defaultTitle": "Edward Test App",
+    "titleBarColor": "#5ced73"
+  }
+}

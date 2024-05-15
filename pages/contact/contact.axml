@@ -1,0 +1,6 @@
+<view>
+  <view class="section">
+    My Phone No: 0726900598
+  </view>
+  <button size="default" type="primary" onTap="goToHome">Go To Home</button>
+</view>
